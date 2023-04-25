@@ -27,13 +27,13 @@ linkedin_username: rolf-david-b504b654
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
-# orcid_username: 0000-0001-5338-6267
+orcid_username: 0000-0001-5338-6267
 
 # Additional icon links
-#additional_links:
-#- title: itsgoingto.be
-#  icon: fas fa-globe
-#  url: https://www.itsgoingto.be
+additional_links:
+- title: itsgoingto.be
+  icon: fas fa-globe
+  url: https://scholar.google.com/citations?user=V3R1hVkAAAAJ&hl=en&oi=ao
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,7 +48,7 @@ linkedin_username: rolf-david-b504b654
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  - **Reactivity**: mechanism, thermodynamics & kinetics
+  - **Reactivity**: mechanism, thermodynamics & kinetics 
   - **Condensed** phase & **Interfaces** (Solid Liquid/Liquid-Gas)
   - Solvent / Solutes / Ions **interactions**
   - **Spectroscopies** (IR, vSFG)
@@ -68,26 +68,26 @@ content:
       - layout: top-middle
         title: Post-doctoral researcher at Institut de Biologie Physico-Chimique (Paris, France)
         quote: >
-          Since November 2022; Supervisor: Dr. G Stirnemann 
+          Since November 2022; Supervisor: Dr. Guillaume Stirnemann
         description: | # this will include new lines to allow paragraphs
-          # Development and uses of Machine Learning for Reactivity
+          ### Development and uses of Machine Learning for Reactivity
           - Study of **phosphoester bond formation** in aqueous media
           - Use of **AI** for the design of reaction coordinates for complex reactivity
           - **Combined** use of **NNP** and **TPS** to study reactive mechanisms
           - Development of machine learning programs/codes
       - layout: top-middle
-        title: Post-doctoral researcher at Institut de Biologie Physico-Chimique (Paris, France)
+        title: Post-doctoral researcher at École Normale Supérieure – Paris Sciences et Lettres (Paris, France)
         quote: >
-          Since November 2022; Supervisor: Dr. G Stirnemann 
+          2021-2022 (19m); Supervisor: Dr. Damien Laage
         description: | # this will include new lines to allow paragraphs
-          # Development and uses of Machine Learning for Reactivity
-          - Study of **phosphoester bond formation** in aqueous media
-          - Use of **AI** for the design of reaction coordinates for complex reactivity
-          - **Combined** use of **NNP** and **TPS** to study reactive mechanisms
-          - Development of machine learning programs/codes
+          ### Simulation of prebiotic chemical reactions catalyzed by aqueous aerosols
+          - Study of peptide bond formation in bulk water and at the air-water interface
+          - Study of acidity difference between bulk water and air-water interface
+          - Development of combined use of NNP and TPS to study reactive mechanisms
+          - Development of machine learning and interfaces programs/codes
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
