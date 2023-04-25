@@ -64,7 +64,7 @@ content:
         quote: >
           2021-2022 (19m); Supervisor: Dr. Damien Laage
         description: |
-          #### Simulation of prebiotic chemical reactions catalyzed by aqueous aerosols
+          ##### Simulation of prebiotic chemical reactions catalyzed by aqueous aerosols
           - Study of peptide bond formation in bulk water and at the air-water interface
           - Study of acidity difference between bulk water and air-water interface
           - Development of combined use of NNP and TPS to study reactive mechanisms
@@ -74,7 +74,7 @@ content:
         quote: >
           2018-2020 (3y); Supervisor: Pr. Revati Kumar
         description: |
-          #### Interfaces solid-liquid and their properties: spectroscopy & reactivity
+          ##### Interfaces solid-liquid and their properties: spectroscopy & reactivity
           - Study of the graphene oxide and its properties/reactivity in aqueous media and its spectroscopic signatures (vSFG)
           - Study of peptoids in aqueous media and their micellar structures
           - Study of ion pairing in HCl-water clusters
@@ -85,7 +85,7 @@ content:
         quote: >
           2014-2017 (3y); Supervisor: Pr. Anne Milet, Dr. Yohann Moreau
         description: |
-          #### Protonation pathways and reactivity of metalloenzymes
+          Protonation pathways and reactivity of metalloenzymes
           - Study of a protonation step and reactivity of a metalloenzyme using QM/MM
           - Study of transition metal complexes for catalysis
           - Use of hybrid-DFT/MM and metadynamicsn
@@ -94,9 +94,6 @@ content:
     layout: list
     content:
       - layout: top-middle
-        title:
-        quote: >
-
         description: |
           - Discussion Leader of the GRS session Chemistry and Physics of Liquids, Holderness, US, August 3-4th 2019
           - Chairman of a PHYS session at the 257th ACS National Meeting “Chemistry for New Frontiers”, Orlando, US, March/April 31-4th, 2019
