@@ -48,18 +48,18 @@ linkedin_username: rolf-david-b504b654
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  •	<mark>Reactivity</mark>: mechanism, thermodynamics & kinetics
-  •	Condensed phase & Interfaces (Solid Liquid/Liquid-Gas)
-  •	Solvent / Solutes / Ions interactions
-  •	Spectroscopies (IR, vSFG)
-  •	Dialogue theory experience in the field of reactivity and spectroscopy
-  •	Machine Learning for Chemistry (Neural Network-based reactive Force-Fields (NNP) & generation of data)
-  •	Enhanced Sampling & Free Energy Calculations
-  •	Code development (Analysis, spectroscopy, AI)
-  •	Transition Path Sampling (TPS)
-  •	Density Functional Theory (DFT)
-  •	Molecular Dynamics (MD)
-  •	Quantum Mechanics/Molecular Mechanics (QM/MM
+  - **Reactivity**: mechanism, thermodynamics & kinetics
+  - **Condensed** phase & **Interfaces** (Solid Liquid/Liquid-Gas)
+  - Solvent / Solutes / Ions **interactions**
+  - **Spectroscopies** (IR, vSFG)
+  - **Dialogue theory experience** in the field of reactivity and spectroscopy
+  - **Machine Learning** for Chemistry (Neural Network-based reactive Force-Fields (**NNP**) & generation of data)
+  - **Enhanced Sampling** & Free Energy Calculations
+  - Code **development** (Analysis, spectroscopy, AI)
+  - Transition Path Sampling (**TPS**)
+  - Density Functional Theory (DFT)
+  - Molecular Dynamics (MD)
+  - Quantum Mechanics/Molecular Mechanics (QM/MM)
 
 content:
   - title: Research Experiences # Title for the section
@@ -68,12 +68,23 @@ content:
       - layout: top-middle
         title: Post-doctoral researcher at Institut de Biologie Physico-Chimique (Paris, France)
         quote: >
-          Development and uses of Machine Learning for Reactivity
+          Since November 2022; Supervisor: Dr. G Stirnemann 
         description: | # this will include new lines to allow paragraphs
-          •	Study of phosphoester bond formation in aqueous media
-          •	Use of IA for the design of reaction coordinates for complex reactivity
-          •	Combined use of NNP and TPS to study reactive mechanisms
-          •	Development of machine learning programs/codes
+          # Development and uses of Machine Learning for Reactivity
+          - Study of **phosphoester bond formation** in aqueous media
+          - Use of **AI** for the design of reaction coordinates for complex reactivity
+          - **Combined** use of **NNP** and **TPS** to study reactive mechanisms
+          - Development of machine learning programs/codes
+      - layout: top-middle
+        title: Post-doctoral researcher at Institut de Biologie Physico-Chimique (Paris, France)
+        quote: >
+          Since November 2022; Supervisor: Dr. G Stirnemann 
+        description: | # this will include new lines to allow paragraphs
+          # Development and uses of Machine Learning for Reactivity
+          - Study of **phosphoester bond formation** in aqueous media
+          - Use of **AI** for the design of reaction coordinates for complex reactivity
+          - **Combined** use of **NNP** and **TPS** to study reactive mechanisms
+          - Development of machine learning programs/codes
 
 # Footer
 footer_show_references: true
