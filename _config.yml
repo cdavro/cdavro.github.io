@@ -1,0 +1,90 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Rolf David
+title: Theoretical Chemist
+email: rolf+david@slmail.me
+website: https://cdavro.github.io
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+# twitter_username: facespics
+# github_username:  cdavro
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jameswgrant
+linkedin_username: rolf-david-b504b654
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+# orcid_username: 0000-0001-5338-6267
+
+# Additional icon links
+#additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  •	<mark>Reactivity</mark>: mechanism, thermodynamics & kinetics
+  •	Condensed phase & Interfaces (Solid Liquid/Liquid-Gas)
+  •	Solvent / Solutes / Ions interactions
+  •	Spectroscopies (IR, vSFG)
+  •	Dialogue theory experience in the field of reactivity and spectroscopy
+  •	Machine Learning for Chemistry (Neural Network-based reactive Force-Fields (NNP) & generation of data)
+  •	Enhanced Sampling & Free Energy Calculations
+  •	Code development (Analysis, spectroscopy, AI)
+  •	Transition Path Sampling (TPS)
+  •	Density Functional Theory (DFT)
+  •	Molecular Dynamics (MD)
+  •	Quantum Mechanics/Molecular Mechanics (QM/MM
+
+content:
+  - title: Research Experiences # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Post-doctoral researcher at Institut de Biologie Physico-Chimique (Paris, France)
+        quote: >
+          Development and uses of Machine Learning for Reactivity
+        description: | # this will include new lines to allow paragraphs
+          •	Study of phosphoester bond formation in aqueous media
+          •	Use of IA for the design of reaction coordinates for complex reactivity
+          •	Combined use of NNP and TPS to study reactive mechanisms
+          •	Development of machine learning programs/codes
+
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
