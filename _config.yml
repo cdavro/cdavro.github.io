@@ -70,21 +70,53 @@ content:
         quote: >
           Since November 2022; Supervisor: Dr. Guillaume Stirnemann
         description: | # this will include new lines to allow paragraphs
-          ### Development and uses of Machine Learning for Reactivity
+          #### Development and uses of Machine Learning for Reactivity
           - Study of **phosphoester bond formation** in aqueous media
           - Use of **AI** for the design of reaction coordinates for complex reactivity
           - **Combined** use of **NNP** and **TPS** to study reactive mechanisms
           - Development of machine learning programs/codes
       - layout: top-middle
-        title: Post-doctoral researcher at École Normale Supérieure – Paris Sciences et Lettres (Paris, France)
+        title: Post-doctoral researcher at École Normale Supérieure - Paris Sciences et Lettres (Paris, France)
         quote: >
           2021-2022 (19m); Supervisor: Dr. Damien Laage
         description: | # this will include new lines to allow paragraphs
-          ### Simulation of prebiotic chemical reactions catalyzed by aqueous aerosols
+          #### Simulation of prebiotic chemical reactions catalyzed by aqueous aerosols
           - Study of peptide bond formation in bulk water and at the air-water interface
           - Study of acidity difference between bulk water and air-water interface
           - Development of combined use of NNP and TPS to study reactive mechanisms
           - Development of machine learning and interfaces programs/codes
+      - layout: top-middle
+        title: Post-doctoral researcher at Louisiana State University (Baton-Rouge, USA)
+        quote: >
+          2018-2020 (3y); Supervisor: Pr. Revati Kumar
+        description: | # this will include new lines to allow paragraphs
+          #### Interfaces solid-liquid and their properties: spectroscopy & reactivity
+          - Study of the graphene oxide and its properties/reactivity in aqueous media and its spectroscopic signatures (vSFG)
+          - Study of peptoids in aqueous media and their micellar structures
+          - Study of ion pairing in HCl-water clusters
+          - Study of electrolytes in glymes and their non-vehicular diffusion
+          - Development of codes for analysis/spectroscopy of sold/liquid and air/water interfaces and new force-fields
+      - layout: top-middle
+        title: PhD at Université Grenoble-Alpes (Grenoble, France)
+        quote: >
+          2014-2017 (3y); Supervisor: Pr. Anne Milet, Dr. Yohann Moreau
+        description: | # this will include new lines to allow paragraphs
+          #### Protonation pathways and reactivity of metalloenzymes
+          - Study of a protonation step and reactivity of a metalloenzyme using QM/MM
+          - Study of transition metal complexes for catalysis
+          - Use of hybrid-DFT/MM and metadynamicsn
+
+  - title: Awards & Distinctions # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        description:
+          - Discussion Leader of the GRS session Chemistry and Physics of Liquids, Holderness, US, August 3-4th 2019
+          - Chairman of a PHYS session at the 257th ACS National Meeting “Chemistry for New Frontiers”, Orlando, US, March/April 31-4th, 2019
+          - Invited talk at the 257th ACS National Meeting “Chemistry for New Frontiers”, Orlando, US, March/April 31-4th, 2019
+          - 1st prize poster at Journée de printemps SCF Rhône-Alpes 2016, Grenoble, FR, June 9th, 2016
+          - 1st prize poster at the 7th Modeling Interactions in Biomolecules, Prague, CZ, September 14-18th, 2015
+
 
 # Footer
 footer_show_references: false
