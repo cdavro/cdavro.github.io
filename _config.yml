@@ -50,63 +50,79 @@ content:
   - title: Research Experiences
     layout: list
     content:
-      - layout: top-middle
-        title: Post-doctoral researcher at Institut de Biologie Physico-Chimique (Paris, France)
-        #sub_title:
-        caption: Since November 2022
+      - layout: left
+        border: weak
+        title: Post-doctoral researcher
+        sub_title: Institut de Biologie Physico-Chimique (Paris, France)
+        caption: November 2022 - Present
         link: http://www-lbt.ibpc.fr
         link_text: Laboratoire de Chimie Théorique
-        quote: >
-          Supervisor: Dr. Guillaume Stirnemann
         description: |
           Development and uses of Machine Learning for Reactivity
+
+          Supervisor: Dr. Guillaume Stirnemann
+
           - Study of **phosphoester bond formation** in aqueous media
           - Use of **AI** for the design of reaction coordinates for complex reactivity
           - **Combined** use of **NNP** and **TPS** to study reactive mechanisms
           - Development of machine learning programs/codes
-      - layout: top-middle
-        title: Post-doctoral researcher at École Normale Supérieure - Paris Sciences et Lettres (Paris, France)
-        caption: 2021-2022 (19m)
+
+      - layout: left
+        border: weak
+        title: Post-doctoral researcher
+        sub_title: École Normale Supérieure - Paris Sciences et Lettres (Paris, France)
+        caption: 2021-2022 (19 months)
         link: https://www.chimie.ens.fr/recherche/laboratoire-pasteur/chimie-theorique/
         link_text: Laboratoire Pasteur - Pôle Théorie
-        quote: >
-          Supervisor: Dr. Damien Laage
+        #quote: >
+        #  Supervisor: Dr. Damien Laage
         description: |
           Simulation of prebiotic chemical reactions catalyzed by aqueous aerosols
+
+          Supervisor: Dr. Damien Laage
+
           - Study of peptide bond formation in bulk water and at the air-water interface
           - Study of acidity difference between bulk water and air-water interface
           - Development of combined use of NNP and TPS to study reactive mechanisms
           - Development of machine learning and interfaces programs/codes
-      - layout: top-middle
-        title: Post-doctoral researcher at Louisiana State University (Baton-Rouge, USA)
-        caption: 2018-2020 (3y)
+
+      - layout: left
+        border: weak
+        title: Post-doctoral researcher
+        sub_title: Louisiana State University (Baton-Rouge, USA)
+        caption: 2018-2020 (3 years)
         link: https://faculty.lsu.edu/revatik/index.php
         link_text: Departement of Chemistry - Kumar's Group
-        quote: >
-          Supervisor: Pr. Revati Kumar
+        #quote: >
+        #  Supervisor: Pr. Revati Kumar
         description: |
           Interfaces solid-liquid and their properties: spectroscopy & reactivity
+
+          Supervisor: Pr. Revati Kumar
+
           - Study of the graphene oxide and its properties/reactivity in aqueous media and its spectroscopic signatures (vSFG)
           - Study of peptoids in aqueous media and their micellar structures
           - Study of ion pairing in HCl-water clusters
           - Study of electrolytes in glymes and their non-vehicular diffusion
           - Development of codes for analysis/spectroscopy of sold/liquid and air/water interfaces and new force-fields
-      - layout: top-middle
-        title: PhD at Université Grenoble-Alpes (Grenoble, France)
-        sub_title: 
-        caption: 2014-2017 (3y)
+
+      - layout: left
+        border: weak
+        title: PhD student
+        sub_title: Université Grenoble-Alpes (Grenoble, France)
+        caption: 2014-2017 (3 years)
         link: https://dcm.univ-grenoble-alpes.fr
         link_text: Département de Chimie Moleculaire
-        additional_links:
-          - title: Laboratoire Chimie et Biologie des Métaux
-            url: https://www.cbm-lab.fr
-        quote: >
-          Supervisor: Pr. Anne Milet, Dr. Yohann Moreau
         description: |
           Protonation pathways and reactivity of metalloenzymes
+
+          Also with the [Laboratoire Chimie et Biologie des Métaux](https://www.cbm-lab.fr)
+
+          Supervisors: Pr. Anne Milet, Dr. Yohann Moreau
+
           - Study of a protonation step and reactivity of a metalloenzyme using QM/MM
           - Study of transition metal complexes for catalysis
-          - Use of hybrid-DFT/MM and metadynamicsn
+          - Use of hybrid-DFT/MM and metadynamics
 
   - title: Awards & Distinctions
     layout: list
@@ -117,7 +133,97 @@ content:
           - Chairman of a PHYS session at the 257th ACS National Meeting “Chemistry for New Frontiers”, Orlando, US, March/April 31-4th, 2019
           - Invited talk at the 257th ACS National Meeting “Chemistry for New Frontiers”, Orlando, US, March/April 31-4th, 2019
           - 1st prize poster at Journée de printemps SCF Rhône-Alpes 2016, Grenoble, FR, June 9th, 2016
-          - 1st prize poster at the 7th Modeling Interactions in Biomolecules, Prague, CZ, September 14-18th, 2015
+          - 1st prize poster at the [7th Modeling Interactions in Biomolecules](https://physics.mff.cuni.cz/kchfo/MIB15/index.html), Prague, CZ, September 14-18th, 2015
+
+  - title: Scientific Production
+    layout: list
+    content:
+      - layout: top-middle
+        sub_title: Publications (17 with 5 as first author)
+        description: |
+
+          _________________
+
+          P1.  **David, R.**; Tuñón, I.; Laage D. Exploring chemical reaction mechanisms via neural network reactive force fields and transition path sampling: application to peptide bond formation in aqueous solution. In preparation, 2023
+
+          P2. Subasinghege Don, V.; Kim, L.;  **David, R.**; Nauman, J. A.; Kumar, R. Adsorption Studies at the Graphene Oxide – Liquid Interface: A Molecular Dynamics Study. J. Phys. Chem. C 2023, 127, 5920−5930 [https://doi.org/10.1021/acs.jpcc.2c07080](https://doi.org/10.1021/acs.jpcc.2c07080).
+
+          P3. Tsai, E.; Gallage Dona, H. K.; Tong, X.; Du, P.; Novak, B.;  **David, R.**; Rick, S. W.; Zhang, D.; Kumar, R. Unraveling the Role of Charge Patterning in the Micellar Structure of Sequence-Defined Amphiphilic Peptoid Oligomers by Molecular Dynamics Simulations. Macromolecules 2022, 55 (12), 5197–5212 [https://doi.org/10.1021/acs.macromol.2c00141](https://doi.org/10.1021/acs.macromol.2c00141).
+
+          P4. de la Puente, M.;  **David, R.**; Gomez, A.; Laage, D. Acids at the Edge: Why Nitric and Formic Acid Dissociations at Air–Water Interfaces Depend on Depth and on Interface Specific Area. J. Am. Chem. Soc. 2022, 144 (23), 10524–10529. [https://doi.org/10.1021/jacs.2c03099](https://doi.org/10.1021/jacs.2c03099).
+
+          P5. Sun, L.; Adam, S. M.; Mokdad, W.;  **David, R.**; Milet, A.; Artero, V.; Duboc, C. A Bio-Inspired Heterodinuclear CoFe Complex of the Hydrogenases. Faraday Discuss. 2022 234, 34–41. [https://doi.org/10.1039/D1FD00085C](https://doi.org/10.1039/D1FD00085C).
+
+          P6.  **David, R.**; Kumar, R. Reactive Events at the Graphene Oxide–Water Interface. Chem. Commun. 2021, 57 (88), 11697–11700. [https://doi.org/10.1039/D1CC04589J](https://doi.org/10.1039/D1CC04589J).
+
+          P7. Li, K.; Subasinghege Don, V.; Gupta, C. S.;  **David, R.**; Kumar, R. Effect of Anion Identity on Ion Association and Dynamics of Sodium Ions in Non-Aqueous Glyme Based Electrolytes—OTf vs TFSI. J. Chem. Phys. 2021, 154 (18), 184505 [https://doi.org/10.1063/5.0046073](https://doi.org/10.1063/5.0046073).
+
+          P8.  **David, R.**; Tuladhar, A.; Zhang, L.; Arges, C.; Kumar, R. Effect of Oxidation Level on the Interfacial Water at the Graphene Oxide–Water Interface: From Spectroscopic Signatures to Hydrogen-Bonding Environment. J. Phys. Chem. B 2020, 124 (37), 8167–8178. [https://doi.org/10.1021/acs.jpcb.0c05282](https://doi.org/10.1021/acs.jpcb.0c05282).
+
+          P9. Bresnahan, C. G.;  **David, R.**; Milet, A.; Kumar, R. Ion Pairing in HCl–Water Clusters: From Electronic Structure Investigations to Multiconfigurational Force-Field Development. J. Phys. Chem. A 2019, 123 (43), 9371–9381. [https://doi.org/10.1021/acs.jpca.9b07775](https://doi.org/10.1021/acs.jpca.9b07775).
+
+          P10. Subasinghege Don, V.†;  **David, R.**†; Du, P.; Milet, A.; Kumar, R. Interfacial Water at Graphene Oxide Surface: Ordered or Disordered? J. Phys. Chem. B 2019, 123 (7), 1636–1649. [https://doi.org/10.1021/acs.jpcb.8b10987](https://doi.org/10.1021/acs.jpcb.8b10987). († contributed equally)
+
+          P11. Isaac, J. A.; Mansour, A.-T.;  **David, R.**; Kochem, A.; Philouze, C.; Demeshko, S.; Meyer, F.; Réglier, M.; Simaan, A. J.; Caldarelli, S.; Yemloul, M.; Jamet, H.; Thibon-Pourret, A.; Belle, C. Tetranuclear and Dinuclear Phenoxido Bridged Copper Complexes Based on Unsymmetrical Thiosemicarbazone Ligands. Dalt. Trans. 2018, 47 (29), 9665–9676. [https://doi.org/10.1039/C8DT02452A](https://doi.org/10.1039/C8DT02452A).
+
+          P12. Thibon-Pourret, A.; Gennarini, F.;  **David, R.**; Isaac, J. A.; Lopez, I.; Gellon, G.; Molton, F.; Wojcik, L.; Philouze, C.; Flot, D.; Le Mest, Y.; Réglier, M.; Le Poul, N.; Jamet, H.; Belle, C. Effect of Monoelectronic Oxidation of an Unsymmetrical Phenoxido-Hydroxido Bridged Dicopper(II) Complex. Inorg. Chem. 2018, 57 (19), 12364–12375. [https://doi.org/10.1021/acs.inorgchem.8b02127](https://doi.org/10.1021/acs.inorgchem.8b02127).
+
+          P13.  **David, R.**; Jamet, H.; Nivière, V.; Moreau, Y.; Milet, A. Iron Hydroperoxide Intermediate in Superoxide Reductase: Protonation or Dissociation First? MM Dynamics and QM/MM Metadynamics Study. J. Chem. Theory Comput. 2017, 13 (6), 2987–3004. [https://doi.org/10.1021/acs.jctc.7b00126](https://doi.org/10.1021/acs.jctc.7b00126).
+
+          P14. Gennarini, F.;  **David, R.**; López, I.; Le Mest, Y.; Réglier, M.; Belle, C.; Thibon-Pourret, A.; Jamet, H.; Le Poul, N. Influence of Asymmetry on the Redox Properties of Phenoxo- and Hydroxo-Bridged Dicopper Complexes: Spectroelectrochemical and Theoretical Studies. Inorg. Chem. 2017, 56 (14), 7707–7719. [https://doi.org/10.1021/acs.inorgchem.7b00338](https://doi.org/10.1021/acs.inorgchem.7b00338).
+
+          P15. Lalaoui, N.;  **David, R.**; Jamet, H.; Holzinger, M.; Le Goff, A.; Cosnier, S. Hosting Adamantane in the Substrate Pocket of Laccase: Direct Bioelectrocatalytic Reduction of O2on Functionalized Carbon Nanotubes. ACS Catal. 2016, 6 (7), 4259–4264. [https://doi.org/10.1021/acscatal.6b00797](https://doi.org/10.1021/acscatal.6b00797).
+
+          P16. Isaac, J. A.; Gennarini, F.; López, I.; Thibon-Pourret, A.;  **David, R.**; Gellon, G.; Gennaro, B.; Philouze, C.; Meyer, F.; Demeshko, S.; Le Mest, Y.; Réglier, M.; Jamet, H.; Le Poul, N.; Belle, C. Room-Temperature Characterization of a Mixed-Valent μ-Hydroxodicopper(II,III) Complex. Inorg. Chem. 2016, 55 (17), 8263–8266. [https://doi.org/10.1021/acs.inorgchem.6b01504](https://doi.org/10.1021/acs.inorgchem.6b01504.).
+
+          P17. Rao, K. V. R.; Caiveau, N.; **David, R.**; Shalayel, I.; Milet, A.; Vallée, Y. Theoretical Study, Synthesis, and Reactivity of Five-Membered-Ring Acyl Sulfonium Cations. European J. Org. Chem. 2015, 2015 (28), 6125–6129. [https://doi.org/10.1002/ejoc.201500749](https://doi.org/10.1002/ejoc.201500749).
+
+      - layout: top-middle
+        sub_title: Oral Communications (8 with one invited talk)
+        description: |
+
+          _________________
+
+          T1. “Reactivity of graphene oxide in aqueous media” at TSRC “Interfacial Molecular and Electronic Structure and Dynamics”, Virtual, June 15-19th, 2020
+
+          T2. “Computational studies of an acidic proton at the graphene oxide ‑ water interface” at 257th ACS National Meeting “Chemistry for New Frontiers”, Orlando, US, March/April 31/4th, 2019 (invited talk + chaired a session of the physical chemistry section)
+
+          T3. “Mutations on the superoxide reductase: A theoretical study of the 2nd coordination sphere and formation of an oxo-iron” at 255th ACS National Meeting “Nexus of Food, Energy & Water”, New Orleans, US, March 18-22nd, 2018
+
+          T4. “Formation of H2O2 in Superoxide Reductase: Protonation or Dissociation First?” at CIMENT (Regional HPC community) Users day, Grenoble, FR, June 1st, 2017
+
+          T5. “Formation of H2O2 in Superoxide Reductase: Protonation or Dissociation First?” at Event LABEX ARCANE, Grenoble, FR, October 18th, 2016
+
+          T6. “Understanding the formation of H2O2 in superoxide reductase: A metadynamic QM/MM study” at 15th Rencontres de Chimistes Théoriciens Francophones, Lyon, FR, June/July 27-1st, 2016
+
+          T7. “Understanding the formation of H2O2 in superoxide reductase: A metadynamic QM/MM study” at 9th Journée de Chimie de Coordination en Rhône-Alpes, Grenoble, FR, April 7th, 2016
+
+          T8. “Understanding the formation of H2O2 in superoxide reductase: A metadynamic QM/MM study” at 251st ACS National Meeting “Computers in Chemistry”, San Diego, US, March 14-17th, 2016
+
+      - layout: top-middle
+        sub_title: Poster Communications (9 with 2 winning prize)
+        description: |
+
+          _________________
+
+          Po1. “Role of environment in the abiotic peptide bond formation” at 17th Rencontres de Chimistes Théoriciens Francophones, Bordeaux, FR, June/July 27-1st, 2022
+
+          Po2. “Role of environment in the abiotic peptide bond formation” at Journées GDR SolvATE 2022, Paris, FR, May 30-31st, 2022
+
+          Po3. “Simulations of the graphene oxide water interface: hydrogen bonding and spectroscopy” at Journées "Théorie, Modélisation et Simulation 2020”, Virtual, FR, November 2-6th, 2020
+
+          Po4. “Reactivity at the graphene-oxide – acidic aqueous solution interface” at 6th Annual International LSU Research Fair, Baton Rouge, US, November 20th, 2019
+
+          Po5. “Reactivity at the graphene-oxide – acidic aqueous solution interface” at 27th Current Trends in Computational Chemistry, Jackson, US, November 8-9th, 2019
+
+          Po6. “Reactivity at the graphene-oxide – acidic aqueous solution interface” at GRS/GRC “Chemistry and Physics of Liquids”, Holderness, US, August 3-9th, 2019
+
+          Po7. “Understanding the formation of hydrogen peroxide in superoxide reductase: a QM/MM study” at Journée de printemps SCF Rhône-Alpes 2016, Grenoble, FR, June 9th, 2016 (Poster won first prize)
+
+          Po8. “Understanding the formation of hydrogen peroxide in superoxide reductase: a QM/MM study” at 10th Journée Scientifique de l’IMBG, Autrans, FR, May 19-20th, 2016
+
+          Po9. “Understanding the formation of hydrogen peroxide in superoxide reductase: a QM/MM study” at 7th Modeling Interactions in Biomolecules, Prague, CZ, September 14-18th,  2015 (Poster won first prize)
+
 
 # Footer
 footer_show_references: false
