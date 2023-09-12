@@ -56,10 +56,12 @@ content:
         sub_title: École Normale Supérieure - Paris Sciences et Lettres (Paris, France)
                   Institut de Biologie Physico-Chimique (Paris, France)
         caption: November 2022 - Present
-        link: http://www-lbt.ibpc.fr
-        link_text: Laboratoire de Chimie Théorique
+        link: https://www.chimie.ens.fr/recherche/laboratoire-pasteur/chimie-theorique/
+        link_text: Laboratoire Pasteur - Pôle Théorie
         description: |
           Development and uses of Machine Learning for Reactivity
+
+          Previously at the [Laboratoire de Biochimie Théorique](http://www-lbt.ibpc.fr)
 
           Supervisor: Dr. Guillaume Stirnemann
 
@@ -75,8 +77,6 @@ content:
         caption: 2021-2022 (19 months)
         link: https://www.chimie.ens.fr/recherche/laboratoire-pasteur/chimie-theorique/
         link_text: Laboratoire Pasteur - Pôle Théorie
-        #quote: >
-        #  Supervisor: Dr. Damien Laage
         description: |
           Simulation of prebiotic chemical reactions catalyzed by aqueous aerosols
 
@@ -94,8 +94,6 @@ content:
         caption: 2018-2020 (3 years)
         link: https://faculty.lsu.edu/revatik/index.php
         link_text: Departement of Chemistry - Kumar's Group
-        #quote: >
-        #  Supervisor: Pr. Revati Kumar
         description: |
           Interfaces solid-liquid and their properties: spectroscopy & reactivity
 
