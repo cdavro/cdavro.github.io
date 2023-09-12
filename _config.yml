@@ -8,8 +8,8 @@ version: 2
 # Personal info
 name: Rolf David
 title: Theoretical Chemist
-email: rolf+david@slmail.me
-website: https://cdavro.github.io
+email: me@rolfdavid.com
+website: www.rolfdavid.com
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -53,7 +53,8 @@ content:
       - layout: left
         border: weak
         title: Post-doctoral researcher
-        sub_title: Institut de Biologie Physico-Chimique (Paris, France)
+        sub_title: École Normale Supérieure - Paris Sciences et Lettres (Paris, France)
+                  Institut de Biologie Physico-Chimique (Paris, France)
         caption: November 2022 - Present
         link: http://www-lbt.ibpc.fr
         link_text: Laboratoire de Chimie Théorique
