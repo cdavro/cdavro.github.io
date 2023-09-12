@@ -9,7 +9,7 @@ version: 2
 name: Rolf David
 title: Theoretical Chemist
 email: me@rolfdavid.com
-website: www.rolfdavid.com
+website: https://cdavro.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
