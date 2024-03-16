@@ -138,18 +138,18 @@ content:
     layout: list
     content:
       - layout: top-middle
-        sub_title: Publications (17 with 5 as first author)
+        sub_title: Publications (20 with 5 as first author, one as corresponding author)
         description: |
 
           _________________
 
-          P1. Azom, G.; Milet A.; **David R.***; Kumar, R.* Interfacial Water Structure and Reactivity from Graphene Oxide to Neat Graphene using Deep Neural Network Forcefield Simulations. In preparation, 2024
+          P1. Azom, G.; Milet A.; **David R.\***; Kumar, R.* Interfacial Water Structure and Reactivity from Graphene Oxide to Neat Graphene using Deep Neural Network Forcefield Simulations. In preparation, 2024
 
           P2. **David, R.**; Tuñón, I.; Laage D.* The Competing Reaction Mechanisms of Peptide Bond Formation in Water Revealed by Deep Molecular Dynamics and Path Sampling. ChemRxiv. 2024 (Submitted to JACS, in Peer review)
 
           P3. Gomez, A.†; de la Puente, M.†; **David, R.**; Laage, D.* Neural network potentials for exploring condensed phase chemical reactivity. ChemRxiv. 2024 (Submitted to CRAS - Chimie, in Peer review) († contributed equally)
           
-          P4. Benayad, Z.; **David, R.**; Stirnemann G. Molecular mechanisms of phosphoester bond formation in abiotic conditions with reactive neural network potentials. ChemRxiv. 2023; [https://doi.org/10.26434/chemrxiv-2023-8c1mt](https://doi.org/10.26434/chemrxiv-2023-8c1mt). (Submitted to PNAS , in Peer review)
+          P4. Benayad, Z.; **David, R.**; Stirnemann G.* Molecular mechanisms of phosphoester bond formation in abiotic conditions with reactive neural network potentials. ChemRxiv. 2023; [https://doi.org/10.26434/chemrxiv-2023-8c1mt](https://doi.org/10.26434/chemrxiv-2023-8c1mt). (Submitted to PNAS , in Peer review)
           
           P5. Subasinghege Don, V.; Kim, L.;  **David, R.**; Nauman, J. A.; Kumar, R.* Adsorption Studies at the Graphene Oxide – Liquid Interface: A Molecular Dynamics Study. J. Phys. Chem. C 2023, 127, 5920−5930 [https://doi.org/10.1021/acs.jpcc.2c07080](https://doi.org/10.1021/acs.jpcc.2c07080).
 
@@ -157,7 +157,7 @@ content:
 
           P7. de la Puente, M.;  **David, R.**; Gomez, A.; Laage, D.* Acids at the Edge: Why Nitric and Formic Acid Dissociations at Air–Water Interfaces Depend on Depth and on Interface Specific Area. J. Am. Chem. Soc. 2022, 144 (23), 10524–10529. [https://doi.org/10.1021/jacs.2c03099](https://doi.org/10.1021/jacs.2c03099).
 
-          P8. Sun, L.; Adam, S. M.; Mokdad, W.;  **David, R.**; Milet, A.; Artero, V.*; Duboc, C.* A Bio-Inspired Heterodinuclear CoFe Complex of the Hydrogenases. Faraday Discuss. 2022 234, 34–41. [https://doi.org/10.1039/D1FD00085C](https://doi.org/10.1039/D1FD00085C).
+          P8. Sun, L.; Adam, S. M.; Mokdad, W.;  **David, R.**; Milet, A.; Artero, V.\*; Duboc, C.* A Bio-Inspired Heterodinuclear CoFe Complex of the Hydrogenases. Faraday Discuss. 2022 234, 34–41. [https://doi.org/10.1039/D1FD00085C](https://doi.org/10.1039/D1FD00085C).
 
           P9.  **David, R.**; Kumar, R.* Reactive Events at the Graphene Oxide–Water Interface. Chem. Commun. 2021, 57 (88), 11697–11700. [https://doi.org/10.1039/D1CC04589J](https://doi.org/10.1039/D1CC04589J).
 
@@ -184,7 +184,7 @@ content:
           P20. Rao, K. V. R.; Caiveau, N.; **David, R.**; Shalayel, I.; Milet, A.; Vallée, Y.* Theoretical Study, Synthesis, and Reactivity of Five-Membered-Ring Acyl Sulfonium Cations. European J. Org. Chem. 2015, 2015 (28), 6125–6129. [https://doi.org/10.1002/ejoc.201500749](https://doi.org/10.1002/ejoc.201500749).
 
       - layout: top-middle
-        sub_title: Oral Communications (8 with one invited talk)
+        sub_title: Oral Communications (12 with three invited talks)
         description: |
 
           _________________
