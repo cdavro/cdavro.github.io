@@ -138,12 +138,11 @@ content:
     layout: list
     content:
       - layout: top-middle
-        sub_title: Publications (20 with 5 as first author, one as corresponding author)
+        sub_title: Publications (19 with 5 as first author)
         description: |
 
           _________________
 
-          P1. Azom, G.; Milet A.; **David R.\***; Kumar, R.\* Interfacial Water Structure and Reactivity from Graphene Oxide to Neat Graphene using Deep Neural Network Forcefield Simulations. In preparation, 2024
 
           P2. **David, R.**; Tuñón, I.; Laage, D.\* Competing Reaction Mechanisms of Peptide Bond Formation in Water Revealed by Deep Potential Molecular Dynamics and Path Sampling. J. Am. Chem. Soc. 2024, 146 (20), 14213–14224. [https://doi.org/10.1021/jacs.4c03445](https://doi.org/10.1021/jacs.4c03445).
           ChemRxiv: [https://doi.org/10.26434/chemrxiv-2024-tfk5v](https://doi.org/10.26434/chemrxiv-2024-tfk5v)
@@ -154,37 +153,37 @@ content:
           P4. Benayad, Z.†; **David, R.**†; Stirnemann G.\* Molecular mechanisms of phosphoester bond formation in abiotic conditions with reactive neural network potentials. Proc. Natl. Acad. Sci. U.S.A. 2024 (Accepted: [https://doi.org/10.1073/pnas.2322040121](https://doi.org/10.1073/pnas.2322040121)). († contributed equally)
           ChemRxiv: [https://doi.org/10.26434/chemrxiv-2023-8c1mt](https://doi.org/10.26434/chemrxiv-2023-8c1mt)
           
-          P5. Subasinghege Don, V.; Kim, L.;  **David, R.**; Nauman, J. A.; Kumar, R.\* Adsorption Studies at the Graphene Oxide – Liquid Interface: A Molecular Dynamics Study. J. Phys. Chem. C 2023, 127, 5920−5930 [https://doi.org/10.1021/acs.jpcc.2c07080](https://doi.org/10.1021/acs.jpcc.2c07080).
+          P4. Subasinghege Don, V.; Kim, L.;  **David, R.**; Nauman, J. A.; Kumar, R.\* Adsorption Studies at the Graphene Oxide – Liquid Interface: A Molecular Dynamics Study. J. Phys. Chem. C 2023, 127, 5920−5930 [https://doi.org/10.1021/acs.jpcc.2c07080](https://doi.org/10.1021/acs.jpcc.2c07080).
 
-          P6. Tsai, E.; Gallage Dona, H. K.; Tong, X.; Du, P.; Novak, B.;  **David, R.**; Rick, S. W.; Zhang, D.; Kumar, R.\* Unraveling the Role of Charge Patterning in the Micellar Structure of Sequence-Defined Amphiphilic Peptoid Oligomers by Molecular Dynamics Simulations. Macromolecules 2022, 55 (12), 5197–5212 [https://doi.org/10.1021/acs.macromol.2c00141](https://doi.org/10.1021/acs.macromol.2c00141).
+          P5. Tsai, E.; Gallage Dona, H. K.; Tong, X.; Du, P.; Novak, B.;  **David, R.**; Rick, S. W.; Zhang, D.; Kumar, R.\* Unraveling the Role of Charge Patterning in the Micellar Structure of Sequence-Defined Amphiphilic Peptoid Oligomers by Molecular Dynamics Simulations. Macromolecules 2022, 55 (12), 5197–5212 [https://doi.org/10.1021/acs.macromol.2c00141](https://doi.org/10.1021/acs.macromol.2c00141).
 
-          P7. de la Puente, M.;  **David, R.**; Gomez, A.; Laage, D.\* Acids at the Edge: Why Nitric and Formic Acid Dissociations at Air–Water Interfaces Depend on Depth and on Interface Specific Area. J. Am. Chem. Soc. 2022, 144 (23), 10524–10529. [https://doi.org/10.1021/jacs.2c03099](https://doi.org/10.1021/jacs.2c03099).
+          P6. de la Puente, M.;  **David, R.**; Gomez, A.; Laage, D.\* Acids at the Edge: Why Nitric and Formic Acid Dissociations at Air–Water Interfaces Depend on Depth and on Interface Specific Area. J. Am. Chem. Soc. 2022, 144 (23), 10524–10529. [https://doi.org/10.1021/jacs.2c03099](https://doi.org/10.1021/jacs.2c03099).
 
-          P8. Sun, L.; Adam, S. M.; Mokdad, W.;  **David, R.**; Milet, A.; Artero, V.\*; Duboc, C.\* A Bio-Inspired Heterodinuclear CoFe Complex of the Hydrogenases. Faraday Discuss. 2022 234, 34–41. [https://doi.org/10.1039/D1FD00085C](https://doi.org/10.1039/D1FD00085C).
+          P7. Sun, L.; Adam, S. M.; Mokdad, W.;  **David, R.**; Milet, A.; Artero, V.\*; Duboc, C.\* A Bio-Inspired Heterodinuclear CoFe Complex of the Hydrogenases. Faraday Discuss. 2022 234, 34–41. [https://doi.org/10.1039/D1FD00085C](https://doi.org/10.1039/D1FD00085C).
 
-          P9.  **David, R.**; Kumar, R.\* Reactive Events at the Graphene Oxide–Water Interface. Chem. Commun. 2021, 57 (88), 11697–11700. [https://doi.org/10.1039/D1CC04589J](https://doi.org/10.1039/D1CC04589J).
+          P8.  **David, R.**; Kumar, R.\* Reactive Events at the Graphene Oxide–Water Interface. Chem. Commun. 2021, 57 (88), 11697–11700. [https://doi.org/10.1039/D1CC04589J](https://doi.org/10.1039/D1CC04589J).
 
-          P10. Li, K.; Subasinghege Don, V.; Gupta, C. S.;  **David, R.**; Kumar, R.\* Effect of Anion Identity on Ion Association and Dynamics of Sodium Ions in Non-Aqueous Glyme Based Electrolytes—OTf vs TFSI. J. Chem. Phys. 2021, 154 (18), 184505 [https://doi.org/10.1063/5.0046073](https://doi.org/10.1063/5.0046073).
+          P9. Li, K.; Subasinghege Don, V.; Gupta, C. S.;  **David, R.**; Kumar, R.\* Effect of Anion Identity on Ion Association and Dynamics of Sodium Ions in Non-Aqueous Glyme Based Electrolytes—OTf vs TFSI. J. Chem. Phys. 2021, 154 (18), 184505 [https://doi.org/10.1063/5.0046073](https://doi.org/10.1063/5.0046073).
 
-          P11.  **David, R.**; Tuladhar, A.*; Zhang, L.; Arges, C.; Kumar, R.\* Effect of Oxidation Level on the Interfacial Water at the Graphene Oxide–Water Interface: From Spectroscopic Signatures to Hydrogen-Bonding Environment. J. Phys. Chem. B 2020, 124 (37), 8167–8178. [https://doi.org/10.1021/acs.jpcb.0c05282](https://doi.org/10.1021/acs.jpcb.0c05282).
+          P10.  **David, R.**; Tuladhar, A.*; Zhang, L.; Arges, C.; Kumar, R.\* Effect of Oxidation Level on the Interfacial Water at the Graphene Oxide–Water Interface: From Spectroscopic Signatures to Hydrogen-Bonding Environment. J. Phys. Chem. B 2020, 124 (37), 8167–8178. [https://doi.org/10.1021/acs.jpcb.0c05282](https://doi.org/10.1021/acs.jpcb.0c05282).
 
-          P12. Bresnahan, C. G.;  **David, R.**; Milet, A.; Kumar, R.\* Ion Pairing in HCl–Water Clusters: From Electronic Structure Investigations to Multiconfigurational Force-Field Development. J. Phys. Chem. A 2019, 123 (43), 9371–9381. [https://doi.org/10.1021/acs.jpca.9b07775](https://doi.org/10.1021/acs.jpca.9b07775).
+          P11. Bresnahan, C. G.;  **David, R.**; Milet, A.; Kumar, R.\* Ion Pairing in HCl–Water Clusters: From Electronic Structure Investigations to Multiconfigurational Force-Field Development. J. Phys. Chem. A 2019, 123 (43), 9371–9381. [https://doi.org/10.1021/acs.jpca.9b07775](https://doi.org/10.1021/acs.jpca.9b07775).
 
-          P13. Subasinghege Don, V.†;  **David, R.**†; Du, P.; Milet, A.; Kumar, R.\* Interfacial Water at Graphene Oxide Surface: Ordered or Disordered? J. Phys. Chem. B 2019, 123 (7), 1636–1649. [https://doi.org/10.1021/acs.jpcb.8b10987](https://doi.org/10.1021/acs.jpcb.8b10987). († contributed equally)
+          P12. Subasinghege Don, V.†;  **David, R.**†; Du, P.; Milet, A.; Kumar, R.\* Interfacial Water at Graphene Oxide Surface: Ordered or Disordered? J. Phys. Chem. B 2019, 123 (7), 1636–1649. [https://doi.org/10.1021/acs.jpcb.8b10987](https://doi.org/10.1021/acs.jpcb.8b10987). († contributed equally)
 
-          P14. Isaac, J. A.; Mansour, A.-T.;  **David, R.**; Kochem, A.; Philouze, C.; Demeshko, S.; Meyer, F.; Réglier, M.; Simaan, A. J.; Caldarelli, S.; Yemloul, M.; Jamet, H.; Thibon-Pourret, A.; Belle, C.\* Tetranuclear and Dinuclear Phenoxido Bridged Copper Complexes Based on Unsymmetrical Thiosemicarbazone Ligands. Dalt. Trans. 2018, 47 (29), 9665–9676. [https://doi.org/10.1039/C8DT02452A](https://doi.org/10.1039/C8DT02452A).
+          P13. Isaac, J. A.; Mansour, A.-T.;  **David, R.**; Kochem, A.; Philouze, C.; Demeshko, S.; Meyer, F.; Réglier, M.; Simaan, A. J.; Caldarelli, S.; Yemloul, M.; Jamet, H.; Thibon-Pourret, A.; Belle, C.\* Tetranuclear and Dinuclear Phenoxido Bridged Copper Complexes Based on Unsymmetrical Thiosemicarbazone Ligands. Dalt. Trans. 2018, 47 (29), 9665–9676. [https://doi.org/10.1039/C8DT02452A](https://doi.org/10.1039/C8DT02452A).
 
-          P15. Thibon-Pourret, A.\*; Gennarini, F.;  **David, R.**; Isaac, J. A.; Lopez, I.; Gellon, G.; Molton, F.; Wojcik, L.; Philouze, C.; Flot, D.; Le Mest, Y.; Réglier, M.; Le Poul, N.; Jamet, H.; Belle, C. Effect of Monoelectronic Oxidation of an Unsymmetrical Phenoxido-Hydroxido Bridged Dicopper(II) Complex. Inorg. Chem. 2018, 57 (19), 12364–12375. [https://doi.org/10.1021/acs.inorgchem.8b02127](https://doi.org/10.1021/acs.inorgchem.8b02127).
+          P14. Thibon-Pourret, A.\*; Gennarini, F.;  **David, R.**; Isaac, J. A.; Lopez, I.; Gellon, G.; Molton, F.; Wojcik, L.; Philouze, C.; Flot, D.; Le Mest, Y.; Réglier, M.; Le Poul, N.; Jamet, H.; Belle, C. Effect of Monoelectronic Oxidation of an Unsymmetrical Phenoxido-Hydroxido Bridged Dicopper(II) Complex. Inorg. Chem. 2018, 57 (19), 12364–12375. [https://doi.org/10.1021/acs.inorgchem.8b02127](https://doi.org/10.1021/acs.inorgchem.8b02127).
 
-          P16.  **David, R.**; Jamet, H.; Nivière, V.; Moreau, Y.; Milet, A.\* Iron Hydroperoxide Intermediate in Superoxide Reductase: Protonation or Dissociation First? MM Dynamics and QM/MM Metadynamics Study. J. Chem. Theory Comput. 2017, 13 (6), 2987–3004. [https://doi.org/10.1021/acs.jctc.7b00126](https://doi.org/10.1021/acs.jctc.7b00126).
+          P15.  **David, R.**; Jamet, H.; Nivière, V.; Moreau, Y.; Milet, A.\* Iron Hydroperoxide Intermediate in Superoxide Reductase: Protonation or Dissociation First? MM Dynamics and QM/MM Metadynamics Study. J. Chem. Theory Comput. 2017, 13 (6), 2987–3004. [https://doi.org/10.1021/acs.jctc.7b00126](https://doi.org/10.1021/acs.jctc.7b00126).
 
-          P17. Gennarini, F.;  **David, R.**; López, I.; Le Mest, Y.; Réglier, M.; Belle, C.; Thibon-Pourret, A.; Jamet, H.\*; Le Poul, N.\* Influence of Asymmetry on the Redox Properties of Phenoxo- and Hydroxo-Bridged Dicopper Complexes: Spectroelectrochemical and Theoretical Studies. Inorg. Chem. 2017, 56 (14), 7707–7719. [https://doi.org/10.1021/acs.inorgchem.7b00338](https://doi.org/10.1021/acs.inorgchem.7b00338).
+          P16. Gennarini, F.;  **David, R.**; López, I.; Le Mest, Y.; Réglier, M.; Belle, C.; Thibon-Pourret, A.; Jamet, H.\*; Le Poul, N.\* Influence of Asymmetry on the Redox Properties of Phenoxo- and Hydroxo-Bridged Dicopper Complexes: Spectroelectrochemical and Theoretical Studies. Inorg. Chem. 2017, 56 (14), 7707–7719. [https://doi.org/10.1021/acs.inorgchem.7b00338](https://doi.org/10.1021/acs.inorgchem.7b00338).
 
-          P18. Lalaoui, N.;  **David, R.**; Jamet, H.; Holzinger, M.; Le Goff, A.\; Cosnier, S. Hosting Adamantane in the Substrate Pocket of Laccase: Direct Bioelectrocatalytic Reduction of O2on Functionalized Carbon Nanotubes. ACS Catal. 2016, 6 (7), 4259–4264. [https://doi.org/10.1021/acscatal.6b00797](https://doi.org/10.1021/acscatal.6b00797).
+          P17. Lalaoui, N.;  **David, R.**; Jamet, H.; Holzinger, M.; Le Goff, A.\*; Cosnier, S. Hosting Adamantane in the Substrate Pocket of Laccase: Direct Bioelectrocatalytic Reduction of O2on Functionalized Carbon Nanotubes. ACS Catal. 2016, 6 (7), 4259–4264. [https://doi.org/10.1021/acscatal.6b00797](https://doi.org/10.1021/acscatal.6b00797).
 
-          P19. Isaac, J. A.; Gennarini, F.; López, I.; Thibon-Pourret, A.;  **David, R.**; Gellon, G.; Gennaro, B.; Philouze, C.; Meyer, F.; Demeshko, S.; Le Mest, Y.; Réglier, M.; Jamet, H.; Le Poul, N.\*; Belle, C.\* Room-Temperature Characterization of a Mixed-Valent μ-Hydroxodicopper(II,III) Complex. Inorg. Chem. 2016, 55 (17), 8263–8266. [https://doi.org/10.1021/acs.inorgchem.6b01504](https://doi.org/10.1021/acs.inorgchem.6b01504.).
+          P18. Isaac, J. A.; Gennarini, F.; López, I.; Thibon-Pourret, A.;  **David, R.**; Gellon, G.; Gennaro, B.; Philouze, C.; Meyer, F.; Demeshko, S.; Le Mest, Y.; Réglier, M.; Jamet, H.; Le Poul, N.\*; Belle, C.\* Room-Temperature Characterization of a Mixed-Valent μ-Hydroxodicopper(II,III) Complex. Inorg. Chem. 2016, 55 (17), 8263–8266. [https://doi.org/10.1021/acs.inorgchem.6b01504](https://doi.org/10.1021/acs.inorgchem.6b01504.).
 
-          P20. Rao, K. V. R.; Caiveau, N.; **David, R.**; Shalayel, I.; Milet, A.; Vallée, Y.\* Theoretical Study, Synthesis, and Reactivity of Five-Membered-Ring Acyl Sulfonium Cations. European J. Org. Chem. 2015, 2015 (28), 6125–6129. [https://doi.org/10.1002/ejoc.201500749](https://doi.org/10.1002/ejoc.201500749).
+          P19. Rao, K. V. R.; Caiveau, N.; **David, R.**; Shalayel, I.; Milet, A.; Vallée, Y.\* Theoretical Study, Synthesis, and Reactivity of Five-Membered-Ring Acyl Sulfonium Cations. European J. Org. Chem. 2015, 2015 (28), 6125–6129. [https://doi.org/10.1002/ejoc.201500749](https://doi.org/10.1002/ejoc.201500749).
 
       - layout: top-middle
         sub_title: Oral Communications (12 with three invited talks)
@@ -198,7 +197,7 @@ content:
 
           T3. “Combining the power of Neural Network Potentials with Transition Path Sampling to study complex chemical processes” at: [Statistical Thermodynamics & Molecular Simulations Seminar Series](https://sites.google.com/view/stms2021/schedule), Virtual, February 23rd, 2024 (invited talk)
 
-          T4. T4.	“L’Intelligence Artificielle (IA) pour la réactivité en chimie” at: Journée CECIC (Local Chemistry-HPC community), Grenoble, FR,  July 13th, 2023 (invited talk)
+          T4. “L’Intelligence Artificielle (IA) pour la réactivité en chimie” at: Journée CECIC (Local Chemistry-HPC community), Grenoble, FR,  July 13th, 2023 (invited talk)
 
           T5. “Reactivity of graphene oxide in aqueous media” at TSRC “Interfacial Molecular and Electronic Structure and Dynamics”, Virtual, June 15-19th, 2020
 
