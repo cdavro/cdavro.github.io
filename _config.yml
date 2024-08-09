@@ -17,17 +17,13 @@ darkmode: false
 # Social links
 linkedin_username: rolf-david-b504b654
 orcid_username: 0000-0001-5338-6267
+github_username: cdavro
+googlescholar_username: V3R1hVkAAAAJ
 
 # Additional icon links
 additional_links:
-- title: Google Scholar
-  icon: fa-brands fa-google-scholar
-  url: https://scholar.google.com/citations?user=V3R1hVkAAAAJ&hl=en&oi=ao
-- title: GitHub
-  icon: fa-brands fa-github
-  url: https://github.com/cdavro
 - title: ArcaNN
-  icon: fa-solid fa-atom-simple
+  icon: fas fa-atom-simple
   url: https://github.com/arcann-chem
 
 
