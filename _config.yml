@@ -21,13 +21,13 @@ orcid_username: 0000-0001-5338-6267
 # Additional icon links
 additional_links:
 - title: Google Scholar
-  icon: fas fa-google-scholar
+  icon: fab fa-google-scholar
   url: https://scholar.google.com/citations?user=V3R1hVkAAAAJ&hl=en&oi=ao
 - title: GitHub
-  icon: fas fa-github
+  icon: fab fa-github
   url: https://github.com/cdavro
 - title: ArcaNN
-  icon: fas fa-code
+  icon: fab fa-code
   url: https://github.com/arcann-chem
 
 
