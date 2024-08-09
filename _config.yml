@@ -23,7 +23,7 @@ googlescholar_username: V3R1hVkAAAAJ
 # Additional icon links
 additional_links:
 - title: ArcaNN
-  icon: fas fa-atom-simple
+  icon: fa-solid fa-atom
   url: https://github.com/arcann-chem
 
 
