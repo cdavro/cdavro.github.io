@@ -21,8 +21,15 @@ orcid_username: 0000-0001-5338-6267
 # Additional icon links
 additional_links:
 - title: Google Scholar
-  icon: fas fa-globe
+  icon: fas fa-google-scholar
   url: https://scholar.google.com/citations?user=V3R1hVkAAAAJ&hl=en&oi=ao
+- title: GitHub
+  icon: fas fa-github
+  url: https://github.com/cdavro
+- title: ArcaNN
+  icon: fas fa-code
+  url: https://github.com/arcann-chem
+
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
