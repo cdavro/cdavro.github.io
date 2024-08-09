@@ -24,7 +24,6 @@ additional_links:
 - title: Google Scholar
   icon: fa-brands fa-google-scholar
   url: https://scholar.google.com/citations?hl=en&user=V3R1hVkAAAAJ
-
 - title: ArcaNN
   icon: fa-solid fa-atom
   url: https://github.com/arcann-chem
