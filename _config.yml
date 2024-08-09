@@ -21,8 +21,15 @@ orcid_username: 0000-0001-5338-6267
 # Additional icon links
 additional_links:
 - title: Google Scholar
-  icon: fas fa-globe
+  icon: fas fa-google-scholar
   url: https://scholar.google.com/citations?user=V3R1hVkAAAAJ&hl=en&oi=ao
+- title: GitHub
+  icon: fas fa-github
+  url: https://github.com/cdavro
+- title: ArcaNN
+  icon: fas fa-code
+  url: https://github.com/arcann-chem
+
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -56,7 +63,7 @@ content:
         title: Post-doctoral researcher
         sub_title: École Normale Supérieure - Paris Sciences et Lettres (Paris, France)
                   Institut de Biologie Physico-Chimique (Paris, France)
-        caption: November 2022 - Present
+        caption: November 2022 - July 2024 (21 months)
         link: https://www.chimie.ens.fr/recherche/laboratoire-pasteur/chimie-theorique/
         link_text: Laboratoire Pasteur - Pôle Théorie
         description: |
@@ -75,7 +82,7 @@ content:
         border: weak
         title: Post-doctoral researcher
         sub_title: École Normale Supérieure - Paris Sciences et Lettres (Paris, France)
-        caption: 2021-2022 (19 months)
+        caption: January 2021 - September 2022 (21 months)
         link: https://www.chimie.ens.fr/recherche/laboratoire-pasteur/chimie-theorique/
         link_text: Laboratoire Pasteur - Pôle Théorie
         description: |
@@ -83,9 +90,9 @@ content:
 
           Supervisor: Dr. Damien Laage
 
-          - Study of peptide bond formation in bulk water and at the air-water interface
+          - Study of **peptide bond formation** in bulk water and at the air-water interface
           - Study of acidity difference between bulk water and air-water interface
-          - Development of combined use of NNP and TPS to study reactive mechanisms
+          - Development of **Combined** use of **NNP** and **TPS** to study reactive mechanisms
           - Development of machine learning and interfaces programs/codes
 
       - layout: left
