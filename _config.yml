@@ -53,7 +53,23 @@ about_content: |
 
 
 content:
-  - title: Research Experiences
+  - title: Current Position
+    layout: list
+    content:
+      - layout: left
+        border: weak
+        title: Junior Professor (CNRS)
+        sub_title: Département de Chimie Moleculaire - Université Grenoble-Alpes / CNRS (Grenoble, France)
+        caption: Since October 2024
+        link: https://dcm.univ-grenoble-alpes.fr
+        link_text: Département de Chimie Moleculaire
+        description: |
+          Physical organic chemistry for understanding reactivity in synthesis
+          - Uses of **machine learning** for the comprehension and design of reactivity
+          - Study of reactivity in complex environments
+          - Development of new force-fields
+
+  - title: Past Research Experiences
     layout: list
     content:
       - layout: left
@@ -129,6 +145,7 @@ content:
           - Study of transition metal complexes for catalysis
           - Use of hybrid-DFT/MM and metadynamics
 
+
   - title: Awards & Distinctions
     layout: list
     content:
@@ -144,7 +161,7 @@ content:
     layout: list
     content:
       - layout: top-middle
-        sub_title: Publications (21 with 6 as first author and 2 in preparation as corresponding author/first author)
+        sub_title: Publications (21 with 7 as first author and 1 in preparation as corresponding author/first author)
         description: |
 
           _________________
@@ -153,7 +170,7 @@ content:
 
           arXiv: [https://doi.org/10.48550/arXiv.2407.07751](https://doi.org/10.48550/arXiv.2407.07751)
 
-          P2. Golam, A.; Milet, A.; **David, R.**\*; Kumar, R.\* From Graphene Oxide to Graphene: Changes in Interfacial Water Structure and Reactivity. Submitted.
+          P2. Golam, A.; Milet, A.; **David, R.**\*; Kumar, R.\* From Graphene Oxide to Graphene: Changes in Interfacial Water Structure and Reactivity Using Deep Neural Network Force Fields. J. Phys. Chem. C 2024, acs.jpcc.4c03444. [https://doi.org/10.1021/acs.jpcc.4c03444](https://doi.org/10.1021/acs.jpcc.4c03444).
 
           P3. **David, R.**; Tuñón, I.; Laage, D.\* Competing Reaction Mechanisms of Peptide Bond Formation in Water Revealed by Deep Potential Molecular Dynamics and Path Sampling. J. Am. Chem. Soc. 2024, 146 (20), 14213–14224. [https://doi.org/10.1021/jacs.4c03445](https://doi.org/10.1021/jacs.4c03445).
 
